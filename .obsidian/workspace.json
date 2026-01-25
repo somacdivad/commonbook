@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ";",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -190,8 +189,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "f07af2688341d313",
+  "active": "43c07aa7846b42ef",
   "lastOpenFiles": [
+    "LICENSE",
     "Quotes/Isness and oughtness.md",
     "Quotes/The strong person.md",
     "Quotes/Violence is impractical and immoral.md",
