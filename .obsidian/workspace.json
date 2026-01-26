@@ -11,10 +11,14 @@
             "id": "814f6e8825307152",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Short Stories/Wailing Shall Be in All Streets.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wailing Shall Be in All Streets"
             }
           },
           {
@@ -104,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Short Stories/Wailing Shall Be in All Streets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Wailing Shall Be in All Streets"
             }
           },
           {
@@ -122,11 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Short Stories/Wailing Shall Be in All Streets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Wailing Shall Be in All Streets"
             }
           },
           {
@@ -164,12 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Short Stories/Wailing Shall Be in All Streets.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Wailing Shall Be in All Streets"
             }
           }
         ]
@@ -189,14 +196,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "43c07aa7846b42ef",
+  "active": "814f6e8825307152",
   "lastOpenFiles": [
+    "People/Kurt Vonnegut.md",
+    "Short Stories/Spoils.md",
+    "Short Stories/Wailing Shall Be in All Streets.md",
     "LICENSE",
     "Quotes/Isness and oughtness.md",
     "Quotes/The strong person.md",
     "Quotes/Violence is impractical and immoral.md",
     "Quotes/Love is goodwill for all men.md",
-    "Short Stories/\"Wailing Shall Be in All Streets\".md",
     "Quotes/What you love in a friend is clearer in his absence.md",
     "People",
     "Articles",
