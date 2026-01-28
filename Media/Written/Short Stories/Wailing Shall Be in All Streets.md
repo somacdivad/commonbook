@@ -2,10 +2,20 @@
 type: Short Story
 author: Kurt Vonnegut
 tags:
-  - war
-  - imprisonment
+  - like
 ---
 A short story by [[Kurt Vonnegut]] published in [[Armageddon in Retrospect]].
+
+---
+
+## Themes
+
+- [[War]]
+- [[Imprisonment]]
+
+---
+
+## Notes
 
 I'm not sure if "Wailing Shall Be in All Streets" is fictional or not, but it is most certainly auto-biographical in some sense. It describes the city of Dresden and the narrator's experiences before, during, and after the allied bombing of the city in February of 1945, during which the real life Vonnegut was a prisoner of war to the Nazis.
 

@@ -1,6 +1,15 @@
+---
+tags:
+  - like
+---
 A short story by [[Kurt Vonnegut]], which I read as part of the collection [[Armageddon in Retrospect]].
 
-The story begins with the protagonist, Paul, having dinner with Sue, his wife. Sue had spent the day with their neighbor Mr. Ward and was impressed by an elaborate silver service for twenty-four people that he had "liberated" from Europe during World War II. She pokes fun at Paul for only have brought home a "rusty and badly bent [[Luftwaffe]] saber".
+## Themes
+
+- [[War]]
+- [[Imprisonment]]
+
+The story begins with the protagonist, Paul, having dinner with Sue, his wife. Sue had spent the day with their neighbor Mr. Ward and was impressed by an elaborate silver service for twenty-four people that he had "liberated" from Europe during [[World War II]]. She pokes fun at Paul for only have brought home a "rusty and badly bent [[Luftwaffe]] saber".
 
 Vonneget opens the story with the following, before telling us anything about who Paul is:
 

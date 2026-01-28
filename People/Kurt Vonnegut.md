@@ -2,9 +2,7 @@
 type: Person
 tags:
   - author
-  - soldier
-  - prisoner-of-war
+  - like
 ---
-
 American novelist and humanist.
 
