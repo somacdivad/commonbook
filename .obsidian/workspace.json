@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Media/Music/Albums/Loup(s).md",
+                "file": "Media/Written/Short Stories/Armageddon in Retrospect.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Loup(s)"
+              "title": "Armageddon in Retrospect"
             }
           },
           {
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Media/Music/Albums/Loup(s).md",
+                "file": "Media/Written/Short Stories/Armageddon in Retrospect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Loup(s)"
+              "title": "Backlinks for Armageddon in Retrospect"
             }
           },
           {
@@ -227,6 +227,7 @@
   },
   "active": "6abab595177c6a53",
   "lastOpenFiles": [
+    "Media/Music/Albums/Loup(s).md",
     "Quotes/What you love in a friend is clearer in his absence.md",
     "Quotes/We are Durkheim's heirs.md",
     "Quotes/Violence is impractical and immoral.md",
@@ -248,7 +249,6 @@
     "Media/Written/Short Stories/Spoils.md",
     "Media/Written/Short Stories/Armageddon in Retrospect.md",
     "Media/Written/Books/Armageddon in Retrospect.md",
-    "Media/Music/Albums/Loup(s).md",
     "Armageddon in Retrspect.md",
     "Themes",
     "Organizations",

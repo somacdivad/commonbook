@@ -15,7 +15,7 @@ A short story by [[Kurt Vonnegut]], which I read as part of the [[Media/Written/
 
 From a literary standpoint, "Armageddon in Retrospect" is the kind of short story that I love. It has a tight structure, hits all the essential beats, builds a sense of curiosity, and then concludes with a delightful twist that satisfies that curiosity in an unexpected way.
 
-The story takes place during the [[Cold War]]. It is written as a letter, and like any good campaign letter, kicks off with an appeal to the readers ego without revealing the author's true motives:
+The story takes place during the [[Cold War]]. It is written as a letter, and like any good campaign letter, kicks off with an appeal to the reader's ego without revealing the author's true motives:
 
 > Dear Friend:
 > 
