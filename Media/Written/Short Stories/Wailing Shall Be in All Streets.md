@@ -1,10 +1,8 @@
 ---
-type: Short Story
-author: Kurt Vonnegut
 tags:
-  - like
+  - short-story
 ---
-A short story by [[Kurt Vonnegut]] published in [[Armageddon in Retrospect]].
+A short story by [[Kurt Vonnegut]], which I read as part of the collection [[Media/Written/Books/Armageddon in Retrospect|Armageddon in Retrospect]]
 
 ---
 

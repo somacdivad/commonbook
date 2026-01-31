@@ -1,6 +1,6 @@
 ---
 tags:
-  - "#like"
+  - quote
 ---
 > The dream of catching a unicorn ran through the drab fabric of the lives of the father and son like a golden thread.
 

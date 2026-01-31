@@ -1,8 +1,8 @@
 ---
-type: Person
 tags:
+  - person
   - author
-  - like
+  - humanist
 ---
 American novelist and humanist.
 

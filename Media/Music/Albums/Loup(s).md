@@ -1,6 +1,7 @@
 ---
 tags:
-  - "#neutral"
+  - musician
+  - album
 ---
 An album by French guitarist [[Matthis Pascaud]] released on January 16, 2026.
 

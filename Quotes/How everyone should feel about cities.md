@@ -1,7 +1,6 @@
 ---
 tags:
-  - "#like"
-  - "#agree"
+  - quote
 ---
 > The occupying Russians, when they discovered that we were Americans, embraced us and congratulates us on the complete desolation our planes had wrought. We accepted their congratulations with good grace and proper modesty, but I felth then as I do now, that I would have given my life to save Dresden for the world's generations to come. That is how everyone should feel about every city on earth.
 

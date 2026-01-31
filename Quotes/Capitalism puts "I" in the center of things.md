@@ -1,7 +1,6 @@
 ---
 tags:
-  - like
-  - "#agree"
+  - quote
 ---
 
 
@@ -11,5 +10,6 @@ tags:
 
 ---
 ## Themes
+
 - [[Capitalism]]
 - [[Community]]
