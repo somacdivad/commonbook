@@ -8,63 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "814f6e8825307152",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Media/Written/Short Stories/Armageddon in Retrospect.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Armageddon in Retrospect"
-            }
-          },
-          {
             "id": "6abab595177c6a53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Media/Written/Short Stories/Armageddon in Retrospect.md",
+                "file": "Quotes/Right and wrong in modern man.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Armageddon in Retrospect"
-            }
-          },
-          {
-            "id": "4dca03c7958c3e82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Media/Written/Short Stories/Armageddon in Retrospect.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Armageddon in Retrospect"
-            }
-          },
-          {
-            "id": "8965dfc76d517652",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quotes/Violence is impractical and immoral.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Violence is impractical and immoral"
+              "title": "Right and wrong in modern man"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Media/Written/Short Stories/Armageddon in Retrospect.md",
+                "file": "Quotes/Right and wrong in modern man.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Armageddon in Retrospect"
+              "title": "Backlinks for Right and wrong in modern man"
             }
           },
           {
@@ -227,6 +184,20 @@
   },
   "active": "6abab595177c6a53",
   "lastOpenFiles": [
+    "Quotes/The ethic of midnight.md",
+    "Quotes/Right and wrong in modern man.md",
+    "Quotes/Jumboism is a fallacious measure of power.md",
+    "Quotes/The best gift for a child is a sense of wonder.md",
+    "Quotes/What good stewardship of the earth requires.md",
+    "Quotes/Grown-ups like numbers.md",
+    "Quotes/A low opinion of adults.md",
+    "Media/Written/Short Stories/Armageddon in Retrospect.md",
+    "Media/Written/Letters/On the Shortness of Life.md",
+    "Media/Written/Books/On the Shortness of Life.md",
+    "Quotes/Life isn't short, we just waste a lot of it.md",
+    "Intentional Living.md",
+    "Quotes/Be stingy with your time.md",
+    "Media/Written/Letters",
     "Media/Music/Albums/Loup(s).md",
     "Quotes/What you love in a friend is clearer in his absence.md",
     "Quotes/We are Durkheim's heirs.md",
@@ -240,26 +211,14 @@
     "Quotes/Catching a unicorn.md",
     "Quotes/Capitalism puts \"I\" in the center of things.md",
     "Quotes/All men are brothers.md",
-    "People/Matthis Pascaud.md",
-    "People/Martin Luther King Jr..md",
-    "People/Kurt Vonnegut.md",
-    "People/Kahlil Gibran.md",
-    "Organizations/The School of Life.md",
-    "Media/Written/Short Stories/Wailing Shall Be in All Streets.md",
-    "Media/Written/Short Stories/Spoils.md",
-    "Media/Written/Short Stories/Armageddon in Retrospect.md",
-    "Media/Written/Books/Armageddon in Retrospect.md",
-    "Armageddon in Retrspect.md",
     "Themes",
     "Organizations",
     "Media/Written",
     "Media",
-    "Music/Untitled.md",
     "Media/Music/Albums",
     "Media/Music",
     "LICENSE",
     "People",
-    "Media/Written/Articles",
-    "Media/Written/Books"
+    "Media/Written/Articles"
   ]
 }

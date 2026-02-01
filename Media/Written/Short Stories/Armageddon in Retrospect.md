@@ -8,8 +8,9 @@ A short story by [[Kurt Vonnegut]], which I read as part of the [[Media/Written/
 ## Themes
 
 - [[Evil]]
+- [[The Devil]]
 - [[Science]]
-- [[Martyrdom]]
+- [[Sacrifice]]
 
 ---
 
@@ -23,7 +24,9 @@ The story takes place during the [[Cold War]]. It is written as a letter, and li
 
 What are you selling, Vonnegut?
 
-The narrator recounts to us the story of the Pine Institute, a fictional entity devoted to demonology and located in the real-life small town of [Verdigris, Oklahoma](https://en.wikipedia.org/wiki/Verdigris,_Oklahoma). It is there that an "oil millionaire" named Jessie L. Pine happens upon the works of Dr. Selig Schildknecht of Dresden, Germany[^1] after "ordering 200 feet of books for his library." Ah yes, the millionaire ethos of faux intellectualism. Anyway, Dr. Schildknecht had been ridiculed for his assertion that "the only unified theory of mental illness that seemed to fit all the facts was the most ancient one, which had never been desproved... that the mentally ill were possessed by the Devil."To Pine, this makes a lot of sense.
+The narrator tells us the story of the Pine Institute, a fictional entity located in the real-life small town of [Verdigris, Oklahoma](https://en.wikipedia.org/wiki/Verdigris,_Oklahoma). It is there that an "oil millionaire" named Jessie L. Pine happens upon the works of Dr. Selig Schildknecht of Dresden, Germany[^1] after "ordering 200 feet of books for his library." Ah yes, the millionaire ethos of faux intellectualism.
+
+Anyway, Dr. Schildknecht had been ridiculed for his assertion that "the only unified theory of mental illness that seemed to fit all the facts was the most ancient one, which had never been disproved... that the mentally ill were possessed by the Devil." To Pine, this makes a lot of sense.
 
 Pine invests his millions in the study of the Devil, which attracts one Dr. Gorman Tarbell, an eccentric scientist willing to entertain the idea for the sake of scientific progress. We're told that the narrator, while interviewing Dr. Tarbell for his job at the institute, questions his motives by suggesting the institute's work was bogus, Tarbell interjected:
 
@@ -31,7 +34,7 @@ Pine invests his millions in the study of the Devil, which attracts one Dr. Gorm
 
 Tarbell accepts the job without pay.
 
-His research results in some "hokey" ideas. [^2] Among them that the Devil can be repelled by:
+His research results in some "hokey" ideas.[^2] Among them that the Devil can be repelled by:
 
 - Electricity, and can be evicted from people by an electrified headset.
 - Long talk about sex and childhood, and can be evicted from people by [[psychotherapy]].
